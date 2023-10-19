@@ -1,0 +1,3 @@
+SELECT country
+FROM Cities;
+WHERE country = 'Ireland';
